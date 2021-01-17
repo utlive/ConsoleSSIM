@@ -1,0 +1,1 @@
+bikes.bmp,img29.bmp,0.411965

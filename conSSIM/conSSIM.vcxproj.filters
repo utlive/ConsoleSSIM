@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{ab85c573-a067-4a4b-af87-57b271b61d4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kernel">
+      <UniqueIdentifier>{87f5fc03-f6d1-473a-a5d9-a1ea79982d54}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="conSSIM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SSIM.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cpuid.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThreadTool.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\UsingCV.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VideoFrame.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MJ_Correlation.cpp">
+      <Filter>Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="MJ_PSNR.cpp">
+      <Filter>Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="MS_SSIM.cpp">
+      <Filter>Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="SS_SSIM.cpp">
+      <Filter>Kernel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SSIM.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cpuid.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ThreadTool.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\UsingCV.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\VideoFrame.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="IKL_SSIM.h">
+      <Filter>Kernel</Filter>
+    </ClInclude>
+    <ClInclude Include="MJ_Correlation.h">
+      <Filter>Kernel</Filter>
+    </ClInclude>
+    <ClInclude Include="MJ_PSNR.h">
+      <Filter>Kernel</Filter>
+    </ClInclude>
+    <ClInclude Include="MS_SSIM.h">
+      <Filter>Kernel</Filter>
+    </ClInclude>
+    <ClInclude Include="SS_SSIM.h">
+      <Filter>Kernel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

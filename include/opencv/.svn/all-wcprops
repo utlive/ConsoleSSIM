@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv
+END
+cxflann.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxflann.h
+END
+cvvidsurv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvvidsurv.hpp
+END
+cvtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvtypes.h
+END
+cxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxtypes.h
+END
+cvwimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvwimage.h
+END
+cvinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvinternal.h
+END
+cv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cv.hpp
+END
+cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cv.h
+END
+ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/ml.h
+END
+cxmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxmat.hpp
+END
+cvcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvcompat.h
+END
+cxoperations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxoperations.hpp
+END
+cxcore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxcore.hpp
+END
+cxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxcore.h
+END
+cxerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxerror.h
+END
+highgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/highgui.h
+END
+highgui.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/highgui.hpp
+END
+cvver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvver.h
+END
+cxmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cxmisc.h
+END
+cvaux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvaux.hpp
+END
+cvaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ling/!svn/ver/1110/Jun/2012TI/consoleSSIM/include/opencv/cvaux.h
+END
